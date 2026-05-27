@@ -1,0 +1,5 @@
+Integrantes - Luan Yudi Uemura Kishimoto
+---------------------------------------------------------------------------------------------------------------------
+Na prática era para o programa funcionar ao clicar no botão de 'Run Project (F6)', mas caso nao funcione, clicar com 
+o botão direito na classe InterfaceGrafica.java e depois 'Run File (Shift + F6)
+---------------------------------------------------------------------------------------------------------------------
